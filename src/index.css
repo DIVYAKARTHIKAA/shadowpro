@@ -1,0 +1,459 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/*.Mycontainer{
+  background-image: url('https://img.freepik.com/premium-photo/doctor-medical-clinic-blur-background-hospital-service-center-patient-s-ward_38810-9606.jpg?w=2000');
+  background-size:cover;
+  height:100vh;
+  width:100%;
+  overflow:hidden;
+}
+
+
+/*.card{
+  margin-top: 10rem;
+  margin-left: 10rem;
+  width: 60rem;
+  height: 40rem;
+}*/
+
+/*.card-body{
+  background-color: rgba(52,51,51,0);
+  color:#fff;
+  padding:1 rem;
+  
+}*/
+
+/*.G1 {
+  background-image: 
+  url("https://img.freepik.com/premium-photo/doctor-medical-clinic-blur-background-hospital-service-center-patient-s-ward_38810-9606.jpg?w=2000");
+  background-size: "cover";
+  height: 100vh;
+  margin-top: -70px;
+  font-size:50px;
+  background-repeat:no-repeat; 
+}*/
+
+/*.G1 {
+  background-image: 
+  url(
+    "https://thumbs.dreamstime.com/b/male-medicine-doctor-stethoscope-hand-standing-confidently-hospital-background-healthcare-concept-154742388.jpg");
+    background-size: "cover";
+    height: 100vh;
+    background-repeat:no-repeat; 
+    overflow:hidden;
+  }*/
+  /*.G1 {
+  background-image: 
+  url("https://img.freepik.com/premium-photo/doctor-medical-clinic-blur-background-hospital-service-center-patient-s-ward_38810-9606.jpg?w=2000");
+  background-size: "cover";
+  height: 100vh;
+  margin-top: -70px;
+  font-size:50px;
+  background-repeat:no-repeat; 
+}*/
+
+/*.card1{
+  background-color:rgba(255, 255, 255, 0.342);
+  width: 427px;
+  border: 5px solid black;
+  padding: 17px;
+  margin: 427px;
+  height:19px;
+  margin-top: 1%;
+}*/
+
+.G{
+  background-image: 
+  url(
+    "https://thumbs.dreamstime.com/b/male-medicine-doctor-stethoscope-hand-standing-confidently-hospital-background-healthcare-concept-154742388.jpg");
+    background-size: "cover";
+    height: 100vh;
+    background-repeat:no-repeat; 
+    overflow:hidden;
+  }
+/*.G{
+  background-image: 
+  url(
+    "https://s3.amazonaws.com/cms.ipressroom.com/173/files/201710/5a0cc4a12cfac229250dcba8_Doctor+taking+notes/Doctor+taking+notes_285e1b20-1480-4124-a3e2-e735e09f0024-prv.jpg");
+    background-size: 1600px 697px;
+    height: 100vh;
+    background-repeat:no-repeat; 
+    overflow:hidden;
+  }*/
+  .card{
+    background-color:rgba(86, 222, 240, 0.377);
+    width: 194px;
+    border: 4px solid black;
+    padding: 15px;
+    margin: 556px;
+    height:21px;
+    margin-top: 1%;
+  }
+  .card-header
+  {
+    color:rgb(8, 8, 8);
+    padding:0px;
+    font-size: 15px;
+    font-weight:bolder;
+    text-align: center;
+  }
+  .c1
+  {
+    color:rgb(8, 8, 8);
+    padding:9px;
+    margin-inline: -43px;
+    margin-top:-68px;
+    font-size: 20px;
+    font-weight:bolder;
+    text-align: center;
+  }
+  .c2
+  {
+    color:rgb(8, 8, 8);
+    padding:9px;
+    margin-inline: -43px;
+    margin-top:-68px;
+    font-size: 20px;
+    font-weight:bolder;
+    text-align: center;
+  }
+  .c3
+  {
+    color:rgb(8, 8, 8);
+    padding:9px;
+    margin-inline: -43px;
+    margin-top:-68px;
+    font-size: 20px;
+    font-weight:bolder;
+    text-align: center;
+  }
+  
+  .e1
+  {
+    color:rgb(8, 8, 8);
+    padding:9px;
+    margin-inline: -43px;
+    margin-top:-22px;
+    font-size: 20px;
+    font-weight:bolder;
+    text-align: center;
+  }
+  
+  .b11{
+    border-radius: 10px;
+    background-color:rgba(190, 210, 212, 0.781);
+    width: 180px;
+    border: 4px solid black;
+    padding: 14px;
+    margin: -57px;
+    height:10px;
+    margin-top: 20%;
+  }
+  #chi1{
+    border-radius: 10px;
+    background-color:rgba(190, 210, 212, 0.781);
+    width: 180px;
+    border: 4px solid black;
+    padding: 14px;
+    margin: -57px;
+    height:10px;
+    margin-top: 3%;
+  }
+  #chi2{
+    border-radius: 10px;
+    background-color:rgba(190, 210, 212, 0.781);
+    width: 180px;
+    border: 4px solid black;
+    padding: 14px;
+    margin: -57px;
+    height:10px;
+    margin-top: 50%;
+  }
+  #chi3{
+    border-radius: 10px;
+    background-color:rgba(190, 210, 212, 0.781);
+    width: 180px;
+    border: 4px solid black;
+    padding: 14px;
+    margin: -57px;
+    height:10px;
+    margin-top: 45%;
+  }
+  .b12{
+    border-radius: 10px;
+    background-color:rgba(190, 210, 212, 0.781);
+    width: 180px;
+    border: 4px solid black;
+    padding: 14px;
+    margin: -57px;
+    height:10px;
+    margin-top: 88%;
+  }
+  .b13{
+    border-radius: 10px;
+    background-color:rgba(190, 210, 212, 0.781);
+    width: 180px;
+    border: 4px solid black;
+    padding: 14px;
+    margin: -57px;
+    height:10px;
+    margin-top: 100%;
+  }
+
+  .button {
+    border-radius: 20px;
+    background-color: #4fd153; /* Green */
+    border: none;
+    color: white;
+    padding: 20px 3px;
+    text-align: center;
+    text-decoration:solid;
+    display: inline-block;
+    font-size: 20px;
+    margin: 110px 65px;
+    margin-top:95%;
+    cursor: pointer;
+  }
+  /*.card1{
+    background-color:rgba(255, 255, 255, 0.342);
+    width: 228px;
+    border: 4px solid rgba(0, 0, 0, 0.575);
+    padding: 16px;
+    margin: -428px;
+    height:244px;
+    margin-top: 56%;
+  }
+  .card2{
+    background-color:rgba(255, 255, 255, 0.342);
+    width: 219px;
+    border: 4px solid rgba(0, 0, 0, 0.575);
+    padding: 16px;
+    margin: 363px;
+    height:253px;
+    margin-top: 65%;
+  }
+  .card3{
+    background-color:rgba(255, 255, 255, 0.342);
+    width: 228px;
+    border: 4px solid rgba(0, 0, 0, 0.575);
+    padding: 16px;
+    margin: -428px;
+    height:244px;
+    margin-top: 56%;
+  }*/
+
+
+
+  .div2 {
+    background-color: rgba(0, 110, 255, 0.418);
+    border-radius: 25px;
+    width: 100px;
+    height: 200px;  
+    padding: 65px;
+    border: 3px solid rgb(17, 17, 17);
+    margin:-18px;
+    margin-top:83px;
+  }
+
+  .hr1 {
+    border-top: 2px solid rgb(20, 20, 20);
+    width:228%;
+    margin-left:-65%;
+  }
+
+  .div3 {
+    background-color: rgba(43, 74, 253, 0.493);
+    border-radius: 25px;
+    width: 100px;
+    height: 200px;  
+    padding: 65px;
+    border: 3px solid rgb(17, 17, 17);
+    margin:-430px;
+    margin-top:-335px;
+  }
+
+  .hr2 {
+    border-top: 2px solid rgb(20, 20, 20);
+    width:228%;
+    margin-left:-65%;
+  }
+
+  .div4{
+    align-items: center;
+    background-color: rgba(43, 74, 253, 0.493);
+    border-radius: 25px;
+    width: 100px;
+    height: 200px;  
+    padding: 65px;
+    border: 3px solid rgb(17, 17, 17);
+    margin:413px;
+    margin-top:92px;
+  }
+  
+  .hr3 {
+    border-top: 2px solid rgb(20, 20, 20);
+    width:228%;
+    margin-left:-65%;
+  }
+
+  /*docedit*/
+
+ /* .bac{
+    background-image: 
+    url(
+    "https://images.idgesg.net/images/article/2018/06/medical_data_digital_mobile_ipad_stethoscope_laptop_electronic_health_records_ehr_by_metamorworks_gettyimages_1200x800-100760926-large.jpg?auto=webp&quality=85,70");
+      background-size: "cover";
+      height: 100vh;
+      background-repeat:no-repeat; 
+      overflow:hidden;
+    }*/
+     .bac {
+  background-image: 
+  url("https://images.squarespace-cdn.com/content/v1/54a33c36e4b0fe11941086c6/1536952170632-SW09CUDKMOU3CR5MR1VN/computer-1149148_1920+pixabay.jpg");
+  background-size: "cover";
+  background-color: rgb(240, 248, 255);
+  height: 100vh;
+  background-repeat:no-repeat; 
+  overflow:hidden;
+}
+
+    /*.bac {
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlrt9msRv8xPfuvgIiqH01oTInRgJeZmHwGY9STmkTL9B1ws8oTyadw8QaHonTYnG29U&usqp=CAU");
+      height: 500px;
+      width:100px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+      padding:15px;
+      margin-top: 10px;
+
+    }*/
+    
+    #cr{
+      text-align: center;
+    }
+
+  .do1{
+    background-color: rgba(31, 96, 218, 0.658);
+    border-radius: 25px;
+    width: 100px;
+    height: 150px;  
+    padding: 65px;
+    border: 3px solid rgb(17, 17, 17);
+    margin:193px;
+    margin-top:-607px;
+  }
+
+
+  .d1
+  {
+    color:rgb(248, 244, 244);
+    padding:9px;
+    margin-inline: -43px;
+    margin-top:-68px;
+    font-size: 20px;
+    font-weight:bolder;
+    text-align: center;
+  }
+
+  .hrd1 {
+    border-top: 2px solid rgb(20, 20, 20);
+    width:230%;
+    margin-left:-67%;
+  }
+
+  .do2{
+    background-color: rgba(202, 62, 139, 0.719);
+    border-radius: 25px;
+    width: 100px;
+    height: 150px;  
+    padding: 65px;
+    border: 3px solid rgb(17, 17, 17);
+    margin:6px;
+    margin-top:-153px;
+  }
+
+  .d2
+  {
+    color:rgb(248, 244, 244);
+    padding:9px;
+    margin-inline: -43px;
+    margin-top:-68px;
+    font-size: 20px;
+    font-weight:bolder;
+    text-align: center;
+  }
+
+  .hrd2 {
+    border-top: 2px solid rgb(20, 20, 20);
+    width:228%;
+    margin-left:-65%;
+  }
+  .do3{
+    background-color:rgba(31, 96, 218, 0.658);
+    border-radius: 25px;
+    width: 100px;
+    height: 150px;  
+    padding: 65px;
+    border: 3px solid rgb(17, 17, 17);
+    margin:896px;
+    margin-top:-536px;
+  }
+
+  .d3
+  {
+    color:rgb(248, 244, 244);
+    padding:9px;
+    margin-inline: -43px;
+    margin-top:-68px;
+    font-size: 20px;
+    font-weight:bolder;
+    text-align: center;
+  }
+
+  .hrd3{
+    border-top: 2px solid rgb(20, 20, 20);
+    width:228%;
+    margin-left:-65%;
+  }
+
+  .cr1{
+    background-color:rgba(255, 255, 255, 0.918);
+    width: 800px;
+    border: 3px solid #0000004a;
+    padding: 0px;
+    margin: -132px;
+    height: 230px;
+    margin-top:14%;
+  }
+
+  .buttonchi {
+    border-radius: 18px;
+    background-color: #4fd153; /* Green */
+    border: none;
+    color: white;
+    padding: 25px 43px;
+    text-align: center;
+    text-decoration:solid;
+    display: inline-block;
+    font-size: 20px;
+    margin: 110px 65px;
+    margin-top:252%;
+    cursor: pointer;
+  }
+
+
+ 
